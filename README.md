@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+3XPL0IT+SH4D0W+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+5PY1NG+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+S3CUR1TY+%E2%80%A2+F0R3NS1C+%F0%9F%94%93">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F+Aqtic0l+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%94%8E+M4LW4R3+%E2%80%A2+COD1NG+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%9B%A1%EF%B8%8F+CYB3R+%E2%80%A2+S3CUR1TY+%F0%9F%94%93">
   </a>    
 </p>
 
@@ -23,7 +23,6 @@
     </a>
 </p>
 
-<!-- DEB : Liens Sociaux -->
 <p align="center">
 
   <!--<a href="">
@@ -40,11 +39,8 @@
 
 </p>
 
-<!-- FIN : Liens Sociaux -->   
-
 <hr>
 
-<!-- DEB : A Propos de moi en Anglais -->
 <details>
     <summary>
         <a href="#"><img src="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" height="16px" width="16px"></a> 
@@ -58,17 +54,11 @@
    🕹  My Hobbys are programming and playing video games
 </pre>
 
-<pre>
-<b>😃 Il faut savoir que je suis passionné dans divers domaines :</b>
-<a href="https://fr.wikipedia.org/wiki/M%C3%A9lomane">🎵 La Musique</a>, <a href="https://fr.wikipedia.org/wiki/Sport_m%C3%A9canique">🏎️ Les Sports Mécaniques</a>, <a href="https://fr.wikipedia.org/wiki/Sport_de_combat">🥋 Les Sports de Combats</a>, <a href="https://fr.wikipedia.org/wiki/Astronomie">🌃 L'Astronomie</a>, <a href="https://fr.wikipedia.org/wiki/Astrophotographie">🔭 L'Astrophotographie</a>.
-</pre>
 </details>
-<!-- FIN : A Propos de moi en Français --> 
+
  
 <hr> 
 
-<!-- DEB : Logiciels et Langages que j'utilise -->
-<!--
 <details>
     <summary>
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
