@@ -64,6 +64,10 @@
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
     </summary>
  <p>
+   <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f">
+   <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="52px">
+  </a> &nbsp; |
+  
   <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f">
    <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
   </a> &nbsp; |
