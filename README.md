@@ -15,7 +15,7 @@
     <a href="https://github.com/RapidNX?tab=followers">
         <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>    
-    <a href="https://github.com/Aqtic0l?tab=following">
+    <a href="https://github.com/RapidNX?tab=following">
         <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3RapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
     <a href="https://github.com/Aqtic0l/Aqtic0l/commits/main">
