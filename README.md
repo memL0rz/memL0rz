@@ -12,14 +12,14 @@
     <a href="https://discord.gg/gMry4J2aut">
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
     </a>
-    <a href="https://github.com/Aqtic0l?tab=followers">
-        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAqtic0l&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    <a href="https://github.com/RapidNX?tab=followers">
+        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>    
     <a href="https://github.com/Aqtic0l?tab=following">
-        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3xpl0it-sh4d0w&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3RapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
     <a href="https://github.com/Aqtic0l/Aqtic0l/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/3xpl0it-sh4d0w/3xpl0it-sh4d0w?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/RapidNX/RapidNX?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
 </p>
 
@@ -29,11 +29,11 @@
     <img src="">
   </a>-->
 
-  <a href="https://gitlab.com/Aqtic0l">
+  <a href="https://gitlab.com/RapidNX">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
-  <a href="https://telegram.me/Aqtic0l">
+  <a href="https://telegram.me/RapidNX">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
@@ -48,7 +48,7 @@
     </summary>
     
 <pre>
-   👋 Hi my Name is Aqtic0l
+   👋 Hi my Name is RapidNX
    🚩 Im from Germany
    💻 I programming with Python, [HTML, CSS, JS] and Bash
    🕹  My Hobbys are programming and playing video games
@@ -88,10 +88,10 @@
   <table>
     <tr>
      <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqtic0l&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RapidNX&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
      </td>
       <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Aqtic0l&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=RapidNX&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
       </td>
     </tr>
   </table>
