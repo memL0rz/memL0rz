@@ -13,13 +13,13 @@
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
     </a>
     <a href="https://github.com/XorSploit?tab=followers">
-        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+        <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FXorSploit&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>    
     <a href="https://github.com/XorSploit?tab=following">
-        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3RapidNX&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+        <img alt="Github Following" src="https://img.shields.io/badge/dynamic/json?label=FOLLOWING&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2F3XorSploit&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
     <a href="https://github.com/XorSploit/XorSploit/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/RapidNX/RapidNX?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/XorSploit/XorSploit?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
 </p>
 
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
-  <a href="https://telegram.me/RapidNX">
+  <a href="https://telegram.me/XorSploit">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
@@ -43,7 +43,7 @@
 
 <details>
     <summary>
-        <a href="#"><img src="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" height="16px" width="16px"></a> 
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><img src="https://cdn.countryflags.com/thumbs/germany/flag-round-250.png" height="16px" width="16px"></a> 
         <b>ABOUT ME : </b>
     </summary>
     
