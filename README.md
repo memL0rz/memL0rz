@@ -77,8 +77,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
    <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
   </a> &nbsp; |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-   <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="52px" width="52px">
+  <a href="https://youareanidiot.cc">
+   <img alt="JS" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3629222-3030532.png" height="52px" width="52px">
   </a>
  </p>
 </details>
