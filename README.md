@@ -51,7 +51,8 @@
    👋 Hi my Name is Fab1anDev
    🚩 Im from Germany
    💻 I programming with Python, [HTML, CSS, JS] and Bash
-   🕹  My Hobbys are programming and playing video games
+   🕹 My Hobbys are programming and playing video games
+ <a htef="https://discord.com/users/971843958189735986">My Discord</a>
 </pre>
 
 </details>
