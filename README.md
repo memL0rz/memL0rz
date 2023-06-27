@@ -52,7 +52,7 @@
    🚩 Im from Germany
    💻 I programming with Python, [HTML, CSS, JS] and Bash
    🕹 My Hobbys are programming and playing video games
- <a href="https://discord.com/users/971843958189735986">My Discord</a>
+ <a href="https://discord.com/users/fab1andev">My Discord</a>
 </pre>
 
 </details>
