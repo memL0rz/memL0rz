@@ -12,8 +12,6 @@
     <a href="https://github.com/Fab1anDev/Fab1anDev/commits/main">
         <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Fab1anDev/Fab1anDev?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
-
- <iframe src="https://discordapp.com/widget?id=1015695286070419559&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </p>
 
 <p align="center">
