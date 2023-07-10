@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-    <a href="https://discord.gg/gMry4J2aut">
+    <a href="https://discord.gg/9zwgZaWHFr">
         <img alt="Discord Server" src="https://img.shields.io/discord/751580453634310284?label=dscrd+srv&style=for-the-badge&color=blue&labelColor=2a2a2a&logo=discord">
     </a>  
     <a href="https://github.com/Fab1anDev/Fab1anDev/commits/main">
