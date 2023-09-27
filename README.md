@@ -41,7 +41,7 @@
 <pre>
    👋 Hi my Name is Fab1anDev
    🚩 Im from Germany
-   💻 I programming with Python, [HTML, CSS, JS] and Bash
+   💻 I programming Discord Bots in Python
    🕹 My Hobbys are programming and playing video games
  <a href="https://discord.com/users/fab1andev">My Discord</a>
 </pre>
