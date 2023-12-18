@@ -39,9 +39,9 @@
     </summary>
     
 <pre>
-   👋 Hi my Name is Fab1anDev
+   👋 Hi my Name is Fabian (Fab1anDev)
    🚩 Im from Germany
-   💻 I programming Discord Bots in Python
+   💻 I programming Homebrews for Nintendo Switch, PS3 and DS
    🕹 My Hobbys are programming and playing video games
  <a href="https://discord.com/users/fab1andev">My Discord</a>
 </pre>
