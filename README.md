@@ -4,13 +4,13 @@
 
 <p align="center">
  <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=Fab1anDev;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=Xenor41;">
   </a>    
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Fab1anDev/Fab1anDev/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Fab1anDev/Fab1anDev?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    <a href="https://github.com/Xenor41/Xenor41/commits/main">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Xenor41/Xenor41?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
 </p>
 
@@ -20,11 +20,11 @@
     <img src="">
   </a>-->
 
-  <a href="https://gitlab.com/Fab1anDev">
+  <a href="https://gitlab.com/Xenor41">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
-  <a href="https://telegram.me/Fab1anDev">
+  <a href="https://telegram.me/Xenor41">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
@@ -39,11 +39,11 @@
     </summary>
     
 <pre>
-   👋 Hi my Name is Fabian (Fab1anDev)
+   👋 Hi my Name is Fabian (Xenor41)
    🚩 Im from Germany
    💻 I programming Homebrews for Nintendo Switch, PS3 and DS
    🕹 My Hobbys are programming and playing video games
- <a href="https://discord.com/users/fab1andev">My Discord</a>
+ <a href="https://discord.com/users/Xenor41">My Discord</a>
 </pre>
 
 </details>
@@ -80,10 +80,10 @@
   <table>
     <tr>
      <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anDev&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenor41&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
      </td>
       <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Fab1anDev&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Xenor41&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
       </td>
     </tr>
   </table>
