@@ -16,11 +16,7 @@
 
 <p align="center">
 
-  <!--<a href="">
-    <img src="">
-  </a>-->
-
-  <a href="https://gitlab.com/Xenor41">
+  <a href="https://gitlab.com/xenor41">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
@@ -41,7 +37,7 @@
 <pre>
    👋 Hi my Name is Fabian (Xenor41)
    🚩 Im from Germany
-   💻 I programming Homebrews for Nintendo Switch, PS3 and DS
+   💻 I like Low level programming and Linux
    🕹 My Hobbys are programming and playing video games
  <a href="https://discord.com/users/Xenor41">My Discord</a>
 </pre>
@@ -56,20 +52,18 @@
         <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
     </summary>
  <p>
-   <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f">
-   <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="52px">
-  </a> &nbsp; |
+ <a href="">
+   <img alt="JS" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="52px" width="52px">
+  </a>
   
-  <a href="https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f">
+   <a href="">
+   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="52px">
+  </a> &nbsp; 
+  
+  <a href="">
    <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
-  </a> &nbsp; |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-   <img alt="HTML5" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-   <img alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="52px" width="52px">
-  </a> &nbsp; |
-  <a href="https://youareanidiot.cc">
+  </a> &nbsp; 
+  <a href="">
    <img alt="JS" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3629222-3030532.png" height="52px" width="52px">
   </a>
  </p>
