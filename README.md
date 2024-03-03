@@ -49,22 +49,22 @@
 
 <details>
     <summary>
-        <b>🖥️ SOFTWARE & LANGUAGE I USE : </b>
+        <b>🖥️ IM LEARN/WORKS WITH THESE LANGUAGES : </b>
     </summary>
  <p>
  <a href="">
-   <img alt="C#" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F68%2Fc-sharp-800x800.png&f=1&nofb=1&ipt=638d5d360713de2cef3f336acb338e4f44a09088968c32bd098c3b90c1c0cda2&ipo=images" height="52px" width="52px">
+   <img alt="RUST" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Frust-icon-2048x2047-5s6wkmk1.png&f=1&nofb=1&ipt=0fd6c94c1be374ebf3aa3cc754d7369e059b8c36064cc2a6054d222fd4d38377&ipo=images" height="52px" width="52px">
   </a>
   
    <a href="">
-   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="52px">
+   <img alt="PYTHON" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="52px">
   </a> &nbsp; 
   
   <a href="">
-   <img alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
+   <img alt="BASH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
   </a> &nbsp; 
   <a href="">
-   <img alt="JS" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3629222-3030532.png" height="52px" width="52px">
+   <img alt="Arch Linux" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3629222-3030532.png" height="52px" width="52px">
   </a>
  </p>
 </details>
@@ -73,13 +73,14 @@
 <p align="center">
   <table>
     <tr>
-     <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenor41&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=github_dark&locale=en"></a>
+     <td align="center", style="width: 100%">
+          <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=Xenor41&rank_icon=percentile&theme=radical"></a>
      </td>
-      <td align="center" style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=Xenor41&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=github_dark&locale=en"></a>
-      </td>
-    </tr>
+     <td align="center", style="width: 100%;">
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenor41&layout=compact&show_icons=true&theme=radical&locale=en"></a>
+     </td>
+     
+   
   </table>
 </p>
 
