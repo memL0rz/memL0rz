@@ -37,7 +37,7 @@
 <pre>
    👋 Hi my Name is Fabian (Xenor41)
    🚩 Im from Germany
-   💻 I like Low level programming and Linux
+   💻 I like programming and Linux
    🕹 My Hobbys are programming and playing video games
  <a href="https://discord.com/users/Xenor41">My Discord</a>
 </pre>
@@ -53,7 +53,7 @@
     </summary>
  <p>
  <a href="">
-   <img alt="JS" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="52px" width="52px">
+   <img alt="C#" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.cdnlogo.com%2Flogos%2Fc%2F68%2Fc-sharp-800x800.png&f=1&nofb=1&ipt=638d5d360713de2cef3f336acb338e4f44a09088968c32bd098c3b90c1c0cda2&ipo=images" height="52px" width="52px">
   </a>
   
    <a href="">
