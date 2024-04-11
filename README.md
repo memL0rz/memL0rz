@@ -74,10 +74,10 @@
   <table>
     <tr>
      <td align="center", style="width: 100%">
-          <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=Xenor41&rank_icon=percentile&theme=radical"></a>
+          <a href="#" ><img src="https://github-readme-stats.vercel.app/api?username=Fab1anDev&rank_icon=percentile&theme=radical"></a>
      </td>
      <td align="center", style="width: 100%;">
-          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenor41&layout=compact&show_icons=true&theme=radical&locale=en"></a>
+          <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab1anDev&layout=compact&show_icons=true&theme=radical&locale=en"></a>
      </td>
      
    
