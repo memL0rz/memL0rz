@@ -37,7 +37,7 @@
 <pre>
    👋 Hi my Name is Fabian (Fab1anDev)
    🚩 Im from Germany
-   💻 I like programming and Linux
+   💻 I like programming, UNIX 
    🕹 My Hobbys are programming and playing video games
  <a href="https://discord.com/users/Fab1anDev">My Discord</a>
 </pre>
