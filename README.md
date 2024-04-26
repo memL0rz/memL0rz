@@ -4,23 +4,23 @@
 
 <p align="center">
  <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=Xenor41;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=5000&center=true&vCenter=true&lines=Fab1anDev;">
   </a>    
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/Xenor41/Xenor41/commits/main">
-        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Xenor41/Xenor41?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
+    <a href="https://github.com/Fab1anDev/Fab1anDev/commits/main">
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Fab1anDev/Fab1anDev?style=for-the-badge&color=blue&labelColor=2a2a2a&logo=github">
     </a>
 </p>
 
 <p align="center">
 
-  <a href="https://gitlab.com/xenor41">
+  <a href="https://gitlab.com/Fab1anDev">
     <img src="https://img.shields.io/badge/-GITLAB-blue?logo=gitlab&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
-  <a href="https://telegram.me/Xenor41">
+  <a href="https://telegram.me/Fab1anDev">
     <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=2a2a2a&color=2a2a2a">
   </a>
 
@@ -35,11 +35,11 @@
     </summary>
     
 <pre>
-   👋 Hi my Name is Fabian (Xenor41)
+   👋 Hi my Name is Fabian (Fab1anDev)
    🚩 Im from Germany
    💻 I like programming and Linux
    🕹 My Hobbys are programming and playing video games
- <a href="https://discord.com/users/Xenor41">My Discord</a>
+ <a href="https://discord.com/users/Fab1anDev">My Discord</a>
 </pre>
 
 </details>
@@ -63,8 +63,11 @@
   <a href="">
    <img alt="BASH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
   </a> &nbsp; 
+  <a href="OpenBSD">
+   <img alt="OpenBSD" src="https://www.techno-science.net/illustration/Definition/200px/Logo-OpenBSD.png" height="52px" width="52px">
+  </a>
   <a href="">
-   <img alt="Arch Linux" src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3629222-3030532.png" height="52px" width="52px">
+   <img alt="FreeBSD" src="https://cdn.freebiesupply.com/logos/large/2x/freebsd-logo-png-transparent.png" height="52px" width="52px">
   </a>
  </p>
 </details>
