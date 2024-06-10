@@ -49,7 +49,7 @@
 
 <details>
     <summary>
-        <b>🖥️ IM LEARN/WORKS WITH THESE LANGUAGES : </b>
+        <b>🖥️ IM LEARN/WORKS WITH THESE LANGUAGES/OS : </b>
     </summary>
  <p>
  <a href="">
