@@ -62,13 +62,7 @@
   
   <a href="">
    <img alt="BASH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png" height="52px">
-  </a> &nbsp; 
-  <a href="OpenBSD">
-   <img alt="OpenBSD" src="https://www.techno-science.net/illustration/Definition/200px/Logo-OpenBSD.png" height="52px" width="52px">
-  </a>
-  <a href="">
-   <img alt="FreeBSD" src="https://cdn.freebiesupply.com/logos/large/2x/freebsd-logo-png-transparent.png" height="52px" width="52px">
-  </a>
+  </a> &nbsp;
  </p>
 </details>
 
